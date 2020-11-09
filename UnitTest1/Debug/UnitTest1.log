@@ -1,7 +1,0 @@
-﻿  UnitTest1.cpp
-C:\Users\иван\source\repos\Lab1\Lab1\Source.cpp(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
-C:\Users\иван\source\repos\Lab1\Lab1\Source.cpp(98,21): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\иван\source\repos\Lab1\Lab1\Source.cpp(114,20): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\иван\source\repos\Lab1\Lab1\Source.cpp(131,22): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\иван\source\repos\Lab1\Lab1\Source.cpp(174,20): warning C4018: <: несоответствие типов со знаком и без знака
-  UnitTest1.vcxproj -> C:\Users\иван\source\repos\Lab1\Debug\UnitTest1.dll
