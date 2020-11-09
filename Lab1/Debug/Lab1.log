@@ -1,0 +1,9 @@
+﻿  Source.cpp
+C:\Users\иван\source\repos\Lab1\Lab1\Source.cpp(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\иван\source\repos\Lab1\Lab1\Source.cpp(99,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\иван\source\repos\Lab1\Lab1\Source.cpp(115,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\иван\source\repos\Lab1\Lab1\Source.cpp(132,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\иван\source\repos\Lab1\Lab1\Source.cpp(175,20): warning C4018: <: несоответствие типов со знаком и без знака
+  main.cpp
+  Создание кода...
+  Lab1.vcxproj -> C:\Users\иван\source\repos\Lab1\Debug\Lab1.exe
